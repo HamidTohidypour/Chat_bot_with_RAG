@@ -1,2 +1,2 @@
 # Chat_bot_with_RAG
-Using  Ollama
+Using  Ollama : llama3.1

@@ -1,0 +1,7 @@
+LangChain is a framework for building applications with LLMs.
+RAG stands for Retrieval Augmented Generation.
+Ollama allows running LLMs locally like Llama 3.
+Vector databases store embeddings for semantic search.
+
+I fail my deep learning course, got 50.
+I pass my signal processing course got 90.
